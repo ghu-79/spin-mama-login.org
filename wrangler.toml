@@ -1,0 +1,11 @@
+name = "spin-mama-login-org"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "."
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=spin-mama-login.org"
+HMAC_KEY = "2a5ce07495d7c177795ca9093680ffd6504ea623fc7eaf5c95c5d85a9278fdc2"
+COOKIE_NAME = "9hi"
+PLAY_PATH = "start"
+BUTTON_ID = "p76a4edfaba445229e049235f0f31e18b"
+GATE_SALT = "d2496fc45dbfd7cd"
